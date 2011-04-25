@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>ScummVM Changelog</title>
+		<link>http://littleboy.github.com/appcasts/scummvm/release.xml</link>
+		<description>ScummVM changelog with links to new versions</description>
+		<language>en</language>
+
+		<item>
+			<title>Version 1.4.0</title>
+			<sparkle:releaseNotesLink>http://littleboy.github.com/appcasts/scummvm/notes/notes-1.4.0.html</sparkle:releaseNotesLink>
+			<pubDate>Mon, 25 Apr 2011 07:00:00 +0000</pubDate>
+			<enclosure url="http://www.scummvm.org/downloads/scummvm-win32.exe"
+					   sparkle:version="2.0"
+					   length="4839211"
+					   type="application/octet-stream" />
+		</item>
+	</channel>
+</rss>
